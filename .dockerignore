@@ -1,0 +1,12 @@
+.env
+.env.*
+.git
+.gitignore
+vendor
+node_modules
+storage/*.key
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+public/build
+public/hot
